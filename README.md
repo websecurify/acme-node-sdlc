@@ -1,0 +1,1 @@
+This project illustrates how to integrate security testing into your nodejs application. For more information see [this blog post](http://blog.websecurify.com/2015/07/integrated-web-application-security-testing.html).
